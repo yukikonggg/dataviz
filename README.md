@@ -1,5 +1,5 @@
 # dataviz
-**Data Visualization Projects (Year 1)**
+**Data Visualization Projects**
 
 https://public.tableau.com/app/profile/yuki.kong
 
