@@ -17,7 +17,7 @@ https://public.tableau.com/views/MPU3123Assignment/Dashboard1?:language=en-US&:d
 2. To study the extent to which the use of English in Malaysian society is influenced by various other languages and dialects.
 3. To measure the impact of the use of English in daily activities compared to mother tongue languages.
 
-**2. BDA101 (Analytics in Decision Making) Assignment**
+**2. BDA101 (Analytics in Decision Making) Assignment 2**
 https://public.tableau.com/views/Assignment2_16158680589470/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 - Studied a business scenario regarding a small Malaysian private bank .csv data set
 - Used data visualization to identify business issues with the current customer base
